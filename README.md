@@ -6,7 +6,7 @@ Vamos sortear 4 cupons de desconto para a comunidade do SouJunior!
 ## Regras:
 1. Fazer um fork desse projeto.  
 2. Deixar uma estrela nesse projeto aqui. (Não no seu fork)
-3. Criar um Pull Request com a frase "Eu vou para a codecon" (olhar o PR do Wouerner)
+3. Criar um Pull Request com a frase "Eu vou para a codecon" (olhar o PR do Wouerner) (https://github.com/SouJunior/sorteios/pull/1)
 4. Não pode enviar mais de um Pull Request, caso aconteça sera desclassificado.
 5. Siga as nossas redes sociais:
   - Nossa Página no Linkedin: https://www.linkedin.com/company/soujunior/
