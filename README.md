@@ -24,6 +24,8 @@ O numero da sorte de cada participante será o numero do Pull Request.
 ## Lista de vencedores  
 Adicione o seu nome aqui abaixo no Pull Request, como no exemplo:  
 Daniel Matuoka Kobayashi: Eu vou para codecon
+**Carlos Junior: Eu vou para codecon** 
+**Felipe de Paula: Eu vou para codecon** 
 
 Vamos entrar em contato com os vencedores pelo **linkedin** no seu perfil do github (então deixe ele publico).
 Vejo o exemplo abaixo:
